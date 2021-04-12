@@ -33,7 +33,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: auto;
+ 
 }
 
 .container .card {
@@ -183,5 +183,5 @@ p {
   border-radius: 80%;
 }
 body {
-  background-image: url("../img/All\ Delighted\ People.png");
+  background-image: url("../img/fondo.png");
 }
